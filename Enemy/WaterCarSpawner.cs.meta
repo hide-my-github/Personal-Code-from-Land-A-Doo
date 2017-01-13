@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 756cef1e4927e4840be209552099869b
+timeCreated: 1464146289
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - waterCarGO: {fileID: 125160, guid: ea131eb89e3acdf409cddd2cae6b6f6d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
